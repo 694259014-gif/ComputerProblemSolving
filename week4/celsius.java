@@ -1,6 +1,6 @@
 void main() {
 
-    // 1. ja(รับข้อมูลอุณหภูมิฟาเรนไฮต์)
+    // 1. (รับข้อมูลอุณหภูมิฟาเรนไฮต์)
     IO.print("Enter Fahrenheit: ");
     double fahrenheit = Double.parseDouble(IO.readln());
 
