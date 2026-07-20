@@ -12,4 +12,4 @@ void main() {
     }
 
     IO.println("Result: " + result);
-}
+}git add hw2.java
